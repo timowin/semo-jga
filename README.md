@@ -4,23 +4,16 @@ Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54]((https://maps.ap
 
 ---
 
-## Donnerstag, 1. Mai
+## Freitag, 1. Mai
 
 | Zeit | Programm | Location |
 |------|----------|----------|
 | 12:30 – 14:30 | 🍽️ Mittagessen | 📍 TBD · [Google Maps](#) |
-
----
-
-## Freitag, 2. Mai
-
-| Zeit | Programm | Location |
-|------|----------|----------|
 | 14:30 – open end | 🏠 Chillen im Haus | 📍 Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54]((https://maps.app.goo.gl/VypkQeXYuhPXs2yPA)) |
 
 ---
 
-## Samstag, 3. Mai
+## Samstag, 2. Mai
 
 | Zeit | Programm | Location |
 |------|----------|----------|
@@ -37,6 +30,16 @@ Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54]((https://maps.ap
 
 | Zeit | Programm | Location |
 |------|----------|----------|
-| morgens | 🥐 Frühstück & schauen was geht | 📍 Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54]((https://maps.app.goo.gl/VypkQeXYuhPXs2yPA))  |
+| Morgens | 🥐 Frühstück & schauen was geht | 📍 Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54]((https://maps.app.goo.gl/VypkQeXYuhPXs2yPA))  |
+| Mittags  Option A:  | Bogenschießen | 📍 Elle´s Erlebnisparcours · [Alte F95, 04463 Großpösna](https://maps.app.goo.gl/N7eW8Z8hpQioJSZ28)  |
+| Mittags  Option B:  | Aussichtspunkt Störmthaler See | 📍 Aussichtspunkt Störmthaler See · [04463 Großpösna](https://maps.app.goo.gl/u15yvdms1cKzgXi98)  |
+| Mittags  Option C:  | Escape room Leipzig - EscapeWelt GmbH | 📍 Escape room Leipzig - EscapeWelt GmbH · [Oststraße 20, 04317 Leipzig](https://maps.app.goo.gl/7uz3A2Z2T7NFJBB86)  |
+| Mittags  Option D:  | Chillung im Haus | 📍 Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54]((https://maps.app.goo.gl/VypkQeXYuhPXs2yPA))  |
 
 ---
+
+## Montag, 5. Mai
+
+| Zeit | Programm | Location |
+|------|----------|----------|
+| morgens | 🥐 Frühstück & Abreise | 📍 Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54]((https://maps.app.goo.gl/VypkQeXYuhPXs2yPA))  |
