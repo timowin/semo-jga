@@ -30,7 +30,7 @@
 
 | Zeit | Programm | Location |
 |------|----------|----------|
-| Morgens | 🥐 Frühstück & schauen was geht | 📍 Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54]((https://maps.app.goo.gl/VypkQeXYuhPXs2yPA))  |
+| Morgens | 🥐 Frühstück | 📍 Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54]((https://maps.app.goo.gl/VypkQeXYuhPXs2yPA))  |
 | Option A:  | Bogenschießen | 📍 Elle´s Erlebnisparcours · [Alte F95, 04463 Großpösna](https://maps.app.goo.gl/N7eW8Z8hpQioJSZ28)  |
 | Option B:  | Aussichtspunkt Störmthaler See | 📍 Aussichtspunkt Störmthaler See · [04463 Großpösna](https://maps.app.goo.gl/u15yvdms1cKzgXi98)  |
 | Option C:  | Escape room Leipzig - EscapeWelt GmbH | 📍 Escape room Leipzig - EscapeWelt GmbH · [Oststraße 20, 04317 Leipzig](https://maps.app.goo.gl/7uz3A2Z2T7NFJBB86)  |
