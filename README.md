@@ -1,6 +1,6 @@
-# Junggesellenabschied — Semo
+# Semos JGA in Leipzig
 **1. – 4. Mai 2026**
-Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54]((https://maps.app.goo.gl/VypkQeXYuhPXs2yPA))
+## Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54](https://maps.app.goo.gl/VypkQeXYuhPXs2yPA)
 
 ---
 
