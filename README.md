@@ -1,6 +1,7 @@
 # Semos JGA in Leipzig
 **1. – 4. Mai 2026**
 ## Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54](https://maps.app.goo.gl/VypkQeXYuhPXs2yPA)
+## 24/7 Automaten-Supermarkt Box'n'Shop [An d. Lagune, 04575 Neukieritzsch](https://maps.app.goo.gl/LAABce62FuJHHHBu8)
 
 ---
 
