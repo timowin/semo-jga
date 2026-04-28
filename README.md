@@ -12,6 +12,7 @@
 |------|----------|----------|
 | 12:30 – 14:30 | 🍽️ Mittagessen | 📍 [Ro-Dong](https://maps.app.goo.gl/3e3itDHzdFVLPbYJA) · Bahnhofstraße 11, 04564 Böhlen |
 | 14:30 – open end | 🏠 Chillen im Haus | 📍 Ferienhaus SUNFLOWER |
+| Abend | 🏠 Open Air? | 📍 Leipzig? |
 
 ---
 
