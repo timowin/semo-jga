@@ -1,8 +1,8 @@
 # Semos JGA in Leipzig
 
 - **1. – 4. Mai 2026**
-- Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54](https://maps.app.goo.gl/VypkQeXYuhPXs2yPA)
-- 24/7 Automaten-Supermarkt Box'n'Shop [An d. Lagune, 04575 Neukieritzsch](https://maps.app.goo.gl/LAABce62FuJHHHBu8)
+- [Ferienhaus SUNFLOWER](https://maps.app.goo.gl/VypkQeXYuhPXs2yPA), 04575 Neukieritzsch, An der Lagune 54
+- [24/7 Kippen, Alk und Snacks Shop](https://maps.app.goo.gl/LAABce62FuJHHHBu8), 04575 Neukieritzsch, An d. Lagune, 
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Zeit | Programm | Location |
 |------|----------|----------|
-| 12:30 – 14:30 | 🍽️ Mittagessen | 📍 Ro-Dong · [Bahnhofstraße 11, 04564 Böhlen](https://maps.app.goo.gl/3e3itDHzdFVLPbYJA) |
+| 12:30 – 14:30 | 🍽️ Mittagessen | 📍 [Ro-Dong](https://maps.app.goo.gl/3e3itDHzdFVLPbYJA) · Bahnhofstraße 11, 04564 Böhlen |
 | 14:30 – open end | 🏠 Chillen im Haus | 📍 Ferienhaus SUNFLOWER |
 
 ---
@@ -37,8 +37,9 @@
 | Morgens | 🥐 Frühstück | 📍 Ferienhaus SUNFLOWER |
 | Option A:  | Bogenschießen | 📍 Elle´s Erlebnisparcours · [Alte F95, 04463 Großpösna](https://maps.app.goo.gl/N7eW8Z8hpQioJSZ28)  |
 | Option B:  | Aussichtspunkt Störmthaler See | 📍 Aussichtspunkt Störmthaler See · [04463 Großpösna](https://maps.app.goo.gl/u15yvdms1cKzgXi98)  |
-| Option C:  | Escape room Leipzig - EscapeWelt GmbH | 📍 Escape room Leipzig - EscapeWelt GmbH · [Oststraße 20, 04317 Leipzig](https://maps.app.goo.gl/7uz3A2Z2T7NFJBB86)  |
-| Option D:  | Grillen am Haus | 📍 Ferienhaus SUNFLOWER · [04575 Neukieritzsch, An der Lagune 54]((https://maps.app.goo.gl/VypkQeXYuhPXs2yPA))  |
+| Option C:  | Escape room Leipzig - EscapeWelt GmbH | 📍 [Escape room Leipzig](https://maps.app.goo.gl/7uz3A2Z2T7NFJBB86) Oststraße 20, 04317 Leipzig  |
+| Option D:  | Grillen am Haus | 📍 Ferienhaus SUNFLOWER  |
+| Option e:  | Angeln am Hainer See | 📍 [Hainer See](https://maps.app.goo.gl/WCxWmHAqDWc6wWbe7)  |
 
 ---
 
