@@ -8,7 +8,7 @@
 
 | Zeit | Programm | Location |
 |------|----------|----------|
-| 12:30 – 14:30 | 🍽️ Mittagessen | 📍 TBD · [Google Maps](#) |
+| 12:30 – 14:30 | 🍽️ Mittagessen | 📍 Ro-Dong · [Bahnhofstraße 11, 04564 Böhlen](https://maps.app.goo.gl/3e3itDHzdFVLPbYJA) |
 | 14:30 – open end | 🏠 Chillen im Haus | 📍 Ferienhaus SUNFLOWER |
 
 ---
@@ -19,9 +19,9 @@
 |------|----------|----------|
 | 08:30 – 09:30 | 🥐 Frühstück | 📍 Ferienhaus SUNFLOWER |
 | 09:30 – 14:00 | 🛶 Partyfloß | 📍 Hainer Seeterasse · [04575 Neukieritzsch · An der Lagune 45](https://maps.app.goo.gl/EnTpqcwxxd1TZqCm6) |
-| 18:30 | 🚆 Bahn nach Leipzig | 🚆 Ferienhaus -> Leipzig Bahnhof | [Verbindung](https://maps.app.goo.gl/AsZqNi9JFFYC8PQDA)
-| 19:30 | 🍴 Essen gehen | 📍 Auerbachs Keller Leipzig · [Grimmaische Str. 2-4, 04109 Leipzig](https://maps.app.goo.gl/nLkNnH4ZEqG9FeBj6) |
-| 21:00 | 🍺 Kneipentour | 📍 Startpunkt |
+| 18:30 | 🚆 Bahn nach Leipzig | 🚆 Ferienhaus -> Leipzig Bahnhof · [Verbindung](https://maps.app.goo.gl/AsZqNi9JFFYC8PQDA) |
+| 20:00 | 🍴 Essen gehen | 📍 Auerbachs Keller Leipzig · [Grimmaische Str. 2-4, 04109 Leipzig](https://maps.app.goo.gl/nLkNnH4ZEqG9FeBj6) |
+| 21:30 | 🍺 Kneipentour | 📍 Startpunkt |
 | A 00:00 | 🚆 Zurück: Bahn + Taxi/Uber/Laufen |🚆 Leipzig Bahnhof -> Neukieritzsch [Verbindung](https://maps.app.goo.gl/tAEvrYwfyTJYpijx6) |
 | B 01:16 | 🚆 Zurück: Bahn + Taxi/Uber/Laufen |🚆 Leipzig Bahnhof -> Neukieritzsch [Verbindung](https://maps.app.goo.gl/tAEvrYwfyTJYpijx6) |
 | C 03:36 | 🚆 Zurück: Bahn + Taxi/Uber/Laufen |🚆 Leipzig Bahnhof -> Neukieritzsch [Verbindung](https://maps.app.goo.gl/tAEvrYwfyTJYpijx6) |
