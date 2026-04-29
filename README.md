@@ -31,7 +31,7 @@
 
 ---
 
-## Sonntag, 4. Mai
+## Sonntag, 3. Mai
 
 | Zeit | Programm | Location |
 |------|----------|----------|
@@ -44,7 +44,7 @@
 
 ---
 
-## Montag, 5. Mai
+## Montag, 4. Mai
 
 | Zeit | Programm | Location |
 |------|----------|----------|
