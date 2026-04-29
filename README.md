@@ -1,6 +1,4 @@
-# Semos JGA in Leipzig
-
-## Details?
+# Semos JGA
 ### Wann?
 01.05 - 04. Mai 2026
 ### Wo?
