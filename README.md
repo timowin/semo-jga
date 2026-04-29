@@ -1,8 +1,12 @@
 # Semos JGA in Leipzig
 
-- **1. – 4. Mai 2026**
-- [Ferienhaus SUNFLOWER](https://maps.app.goo.gl/VypkQeXYuhPXs2yPA) · An der Lagune 54, 04575 Neukieritzsch, 
-- [24/7 Kippen, Alk und Snacks Shop](https://maps.app.goo.gl/LAABce62FuJHHHBu8) · An d. Lagune, 04575 Neukieritzsch 
+## Details?
+### Wann?
+01.05 - 04. Mai 2026
+### Wo?
+[Ferienhaus SUNFLOWER](https://maps.app.goo.gl/VypkQeXYuhPXs2yPA) · An der Lagune 54, 04575 Neukieritzsch
+### Hilfe ich hab Durst und Hunger
+[24/7 Shop](https://maps.app.goo.gl/LAABce62FuJHHHBu8)
 
 ---
 
