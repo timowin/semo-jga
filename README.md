@@ -40,7 +40,7 @@
 | Option B:  | Aussichtspunkt Störmthaler See | 📍 [Aussichtspunkt Störmthaler See](https://maps.app.goo.gl/u15yvdms1cKzgXi98) · 04463 Großpösna  |
 | Option C:  | Escape room Leipzig - EscapeWelt GmbH | 📍 [Escape room Leipzig](https://maps.app.goo.gl/7uz3A2Z2T7NFJBB86) · Oststraße 20, 04317 Leipzig  |
 | Option D:  | Grillen am Haus | 📍 Ferienhaus SUNFLOWER  |
-| Option E:  | Angeln am Hainer See | 📍 [Hainer See](https://maps.app.goo.gl/WCxWmHAqDWc6wWbe7)  |
+| Option E:  | Angeln am See | 🎣 [Angelkarten Leipzig](https://www.hejfish.com/search?latlng=51.349%2C12.394&loc=Leipzig&sort=relevance)  |
 
 ---
 
